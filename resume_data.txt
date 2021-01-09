@@ -1,0 +1,67 @@
+{
+    "Work Experience": {
+        "Format": [
+            "Company",
+            "Position",
+            "Start Date",
+            "Stop Date",
+            "Description 1/5",
+            "Description 2/5",
+            "Description 3/5",
+            "Description 4/5",
+            "Description 5/5"
+        ]
+    },
+    "Projects": {
+        "Format": [
+            "Title",
+            "Start Date",
+            "Finish Date",
+            "Description 1/5",
+            "Description 2/5",
+            "Description 3/5",
+            "Description 4/5",
+            "Description 5/5"
+        ]
+    },
+    "Volunteer Experience": {
+        "Format": [
+            "Organization",
+            "Position",
+            "Start Date",
+            "Stop Date",
+            "Description 1/5",
+            "Description 2/5",
+            "Description 3/5",
+            "Description 4/5",
+            "Description 5/5"
+        ]
+    },
+    "Education": {
+        "Format": [
+            "Degree/Diploma",
+            "Institution",
+            "Start Date",
+            "Stop Date",
+            "GPA"
+        ]
+    },
+    "Mechanical Design": [],
+    "Programming": [],
+    "Prototyping": [],
+    "Related Courses": [],
+    "Certificates": {
+        "Format": [
+            "Title",
+            "Institution"
+        ]
+    },
+    "Awards": {
+        "Format": [
+            "Title",
+            "Organization"
+        ]
+    },
+    "Languages": [],
+    "Interests": []
+}
